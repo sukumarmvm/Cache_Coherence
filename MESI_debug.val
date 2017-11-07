@@ -7,7 +7,7 @@ L1_SIZE: 8192
 L1_ASSOC: 8
 L1_BLOCKSIZE: 64
 NUMBER OF PROCESSORS: 4
-COHERENCE PROTOCOL: MESI
+COHERENCE PROTOCOL: MSI
 TRACE FILE: trace/canneal.04t.debug
 ============ Simulation results (Cache 0) ============
 01. number of reads:				2339
